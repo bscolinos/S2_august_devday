@@ -22,7 +22,7 @@ The app allows users to query and analyze contracts using natural language proce
 1. Clone this repository
 2. Install required packages: pip install -r requirements.txt
 3. Set up a SingleStore free trial:
-- Visit https://www.singlestore.com/cloud-trial/?utm_campaign=Boston and sign up for a free trial
+- Visit [SingleStore](https://www.singlestore.com/cloud-trial/?utm_campaign=Boston) and sign up for a free trial
 - Create a new database and note down the connection details
 
 4. Set up Google Cloud Platform and Vertex AI:
