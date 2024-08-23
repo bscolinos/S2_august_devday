@@ -1,6 +1,8 @@
 # SingleStore x Google August Dev Day
 Materials presented at SingleStorexGoogle dev day
 
+Here are the materials presented at the event. The repo contains a script for generating syntetic contract data, a script for running a streamlit app to interact with that table, and a .sql file to run in SingleStore that contains the table DDL. Modify all 3 of these as needed to experiment with different data or LLM combinations.
+
 The app allows users to query and analyze contracts using natural language processing powered by Google's Vertex AI / Gemini model. It uses SingleStore for efficient data storage and retrieval, Streamlit for the user interface, and LangSmith for monitoring.
 
 ## Features
