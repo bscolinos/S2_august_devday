@@ -38,8 +38,13 @@ The app allows users to query and analyze contracts using natural language proce
 
 6. Create a `.env` file in the project root with the following variables:
 S2_HOST=your_singlestore_host
+
 DB_NAME=your_database_name
+
 S2_USER=your_singlestore_username
+
 S2_PASSWORD=your_singlestore_password
+
 LANGCHAIN_API_KEY=your_langsmith_api_key
+
 LANGCHAIN_PROJECT=your_langsmith_project_name
